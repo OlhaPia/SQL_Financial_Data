@@ -1,4 +1,4 @@
-# Loan Distribution by Country
+-- Loan Distribution by Country
 
 SELECT 
     "Country / Economy", 
