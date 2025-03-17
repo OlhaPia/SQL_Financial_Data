@@ -1,2 +1,2 @@
-# first_project
-My first project 
+# SQL: Financial Data
+### Project Overview
